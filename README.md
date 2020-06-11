@@ -113,7 +113,7 @@ The file contains the following 34 fields:
 
 *The following fields (i.e., 25-34) use a 7-point Likert scale, where 1 – "strongly disagree", 2 – " moderately disagree", 3 - "disagree a little", 4 – "neither agree nor disagree", 5 - "agree a little", 6 – "moderately agree", 7 – "strongly agree".*
 
-**Ten-Item Personality Inventory (TIPI) [[2](#ref2)]:**
+**Ten-Item Personality Inventory (TIPI) [[2](#ref2)]**
 
 *("I see myself as")*
 
