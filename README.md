@@ -1,12 +1,4 @@
-# Description Document of Taobao Serendipity Dataset
-
-
-
-## Table of Contents
-
-[TOC]
-
-
+# Taobao Serendipity Dataset
 
 ## I. Serendipity Data Collection
 
