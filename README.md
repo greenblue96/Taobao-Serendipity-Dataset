@@ -54,7 +54,7 @@ To acknowledge the use of the dataset in your publications, please cite one or b
 
 
 
-## IV. Content and Use of Survey Data File (``survey_data.csv``)
+## IV. Content and Use of Survey Data File (``umap2020_TSD_Wang_data.csv``)
 
 ### 1. URL
 
@@ -72,7 +72,7 @@ Those ids have been anonymized.
 
 Users gave feedback to the received recommendation, by rating the nine statements (see Table 1) on a 5-point Likert scale from "strongly disagree" to "strongly agree".
 
-### 5. Survey Data File Structure (``survey_data.csv``)
+### 5. Survey Data File Structure (``umap2020_TSD_Wang.csv``)
 
 The file contains the following 34 fields:
 
