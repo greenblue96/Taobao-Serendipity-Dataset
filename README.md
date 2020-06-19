@@ -54,7 +54,7 @@ To acknowledge the use of the dataset in your publications, please cite one or b
 
 
 
-## IV. Content and Use of Survey Data File (``umap2020_TSD_Wang_data.csv``)
+## IV. Content and Use of Survey Data File (``umap2020_TSD_Wang.csv``)
 
 ### 1. URL
 
